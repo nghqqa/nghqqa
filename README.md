@@ -1,4 +1,4 @@
-[![nghqqa — profile](assets/terminal-hero.svg)](https://github.com/nghqqa?tab=repositories)
+[![nghqqa — profile](assets/terminal-hero.svg?v=2)](https://github.com/nghqqa?tab=repositories)
 
 <p align="center">
   <a href="https://github.com/nghqqa"><img src="https://img.shields.io/badge/GitHub-nghqqa-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub — nghqqa"></a>
