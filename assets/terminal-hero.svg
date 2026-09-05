@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 520" width="880" height="520" role="img" aria-label="nghqqa 的 GitHub 个人资料终端图:whoami、skills.txt 与项目清单">
+  <title>nghqqa@github:~/profile</title>
+  <defs>
+    <filter id="win-shadow" x="-8%" y="-8%" width="116%" height="122%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000000" flood-opacity="0.32"/>
+    </filter>
+    <clipPath id="win-clip">
+      <rect x="40" y="30" width="800" height="460" rx="12"/>
+    </clipPath>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="2" x2="4" y2="2" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- terminal window -->
+  <g filter="url(#win-shadow)">
+    <rect x="40" y="30" width="800" height="460" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  </g>
+  <g clip-path="url(#win-clip)">
+    <rect x="40" y="30" width="800" height="34" fill="#161b22"/>
+    <line x1="40" y1="64.5" x2="840" y2="64.5" stroke="#30363d" stroke-width="1"/>
+
+    <!-- traffic lights -->
+    <circle cx="64" cy="47" r="6.5" fill="#ff5f56"/>
+    <circle cx="86" cy="47" r="6.5" fill="#ffbd2e"/>
+    <circle cx="108" cy="47" r="6.5" fill="#27c93f"/>
+
+    <text x="440" y="51.5" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,monospace" font-size="12.5" fill="#8b949e">nghqqa@github: ~/profile</text>
+
+    <!-- scanline texture -->
+    <rect x="40" y="30" width="800" height="460" fill="url(#scanlines)"/>
+  </g>
+
+  <!-- terminal content -->
+  <g font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14">
+
+    <!-- whoami -->
+    <text x="72" y="100"><tspan fill="#7ee787">nghqqa@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~/profile</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+    <text x="94" y="124"><tspan fill="#8b949e">→ </tspan><tspan fill="#e6edf3">本地优先学习工具 · 多 Agent 工程 · 机器学习在途</tspan></text>
+
+    <text x="72" y="152" fill="#8b949e">$</text>
+
+    <!-- skills -->
+    <text x="72" y="184"><tspan fill="#7ee787">nghqqa@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~/profile</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">cat skills.txt</tspan></text>
+    <text x="94" y="210" fill="#4d9fff">typescript</text>
+    <text x="203" y="210" fill="#61dafb">react</text>
+    <text x="270" y="210" fill="#9feaf9">electron</text>
+    <text x="362" y="210" fill="#ffd43b">python</text>
+    <text x="438" y="210" fill="#2dd4bf">fastapi</text>
+    <text x="522" y="210" fill="#a78bfa">vite</text>
+    <text x="94" y="236" fill="#a3e635">vitest</text>
+    <text x="170" y="236" fill="#5fd068">playwright</text>
+    <text x="271" y="236" fill="#f4703a">pytorch</text>
+    <text x="355" y="236" fill="#ff6b4a">git</text>
+
+    <text x="72" y="264" fill="#8b949e">$</text>
+
+    <!-- projects -->
+    <text x="72" y="296"><tspan fill="#7ee787">nghqqa@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~/profile</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">ls projects/</tspan></text>
+    <text x="72" y="322"><tspan fill="#f0883e" font-weight="bold">  tizhou/</tspan><tspan fill="#8b949e">       题舟 · 本地优先的考试学习工作台(OCR / 题库 / 模考)</tspan></text>
+    <text x="72" y="348"><tspan fill="#f0883e" font-weight="bold">  MergePilot/</tspan><tspan fill="#8b949e">   多 Agent PR 审修闭环 · L0/L1/L2 风险分级自治</tspan></text>
+
+    <text x="72" y="376" fill="#8b949e">$</text>
+
+    <!-- learning -->
+    <text x="72" y="408"><tspan fill="#7ee787">nghqqa@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~/profile</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">ls learning/</tspan></text>
+    <text x="94" y="434" fill="#79c0ff">hello-algo</text>
+    <text x="203" y="434" fill="#79c0ff">d2l-zh</text>
+    <text x="279" y="434" fill="#79c0ff">pumpkin-book</text>
+    <text x="405" y="434" fill="#79c0ff">cs231n</text>
+    <text x="481" y="434" fill="#79c0ff">transformers</text>
+    <text x="607" y="434" fill="#79c0ff">funNLP</text>
+
+    <!-- idle prompt with blinking cursor -->
+    <text x="72" y="462"><tspan fill="#7ee787">nghqqa@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~/profile</tspan><tspan fill="#8b949e">$ </tspan></text>
+    <rect x="282" y="449" width="8.4" height="17" fill="#e6edf3">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
