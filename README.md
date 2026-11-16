@@ -1,4 +1,4 @@
-[![nghqqa — profile](assets/terminal-hero.svg?v=2)](https://github.com/nghqqa?tab=repositories)
+[![nghqqa — profile](assets/terminal-hero.svg?v=3)](https://github.com/nghqqa?tab=repositories)
 
 <p align="center">
   <a href="https://github.com/nghqqa"><img src="https://img.shields.io/badge/GitHub-nghqqa-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub — nghqqa"></a>
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
   <br>
+  <img src="https://img.shields.io/badge/Dart-13B9FD?style=flat-square&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
