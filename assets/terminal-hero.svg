@@ -36,7 +36,7 @@
 
     <!-- whoami -->
     <text x="72" y="100"><tspan fill="#7ee787">ngh@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~/profile</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
-    <text x="94" y="126"><tspan fill="#8b949e">→ </tspan><tspan fill="#e6edf3">逆光海 · 本地优先学习工具 · 多 Agent 工程 · 机器学习在途</tspan></text>
+    <text x="94" y="126"><tspan fill="#8b949e">→ </tspan><tspan fill="#e6edf3">逆光海 · 本地优先学习工具 · 多 Agent 工程</tspan></text>
 
     <text x="72" y="154" fill="#8b949e">$</text>
 
@@ -51,8 +51,7 @@
     <text x="94" y="238" fill="#13b9fd">dart</text>
     <text x="170" y="238" fill="#a3e635">vitest</text>
     <text x="271" y="238" fill="#5fd068">playwright</text>
-    <text x="372" y="238" fill="#f4703a">pytorch</text>
-    <text x="457" y="238" fill="#ff6b4a">git</text>
+    <text x="372" y="238" fill="#ff6b4a">git</text>
 
     <text x="72" y="266" fill="#8b949e">$</text>
 
