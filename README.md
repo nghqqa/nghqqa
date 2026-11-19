@@ -1,4 +1,4 @@
-[![nghqqa — profile](assets/terminal-hero.svg?v=4)](https://github.com/nghqqa?tab=repositories)
+[![nghqqa — profile](assets/terminal-hero.svg?v=5)](https://github.com/nghqqa?tab=repositories)
 
 <p align="center">
   <a href="https://github.com/nghqqa"><img src="https://img.shields.io/badge/GitHub-nghqqa-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub — nghqqa"></a>
@@ -28,7 +28,7 @@
 | 项目 | 做了什么 | 技术与状态 |
 | --- | --- | --- |
 | [context-vault](https://github.com/nghqqa/context-vault) · [站点](https://nghqqa.github.io/context-vault/) | AI 编程会话的本地资产库：快照 / 诚实迁移 / Token 账本 / 跨会话记忆 | Python · MIT |
-| [题舟 tizhou](https://github.com/nghqqa/tizhou) ★10 | 本地优先考试学习工作台：扫描件 OCR / 题库直导 / 真题原卷模考 | TypeScript · 基于 MIT 原项目二创 |
+| [题舟 tizhou](https://github.com/nghqqa/tizhou) <img src="https://img.shields.io/github/stars/nghqqa/tizhou?style=flat-square&label=%E2%98%85&color=f0883e" alt="tizhou stars" valign="middle"> | 本地优先考试学习工作台：扫描件 OCR / 题库直导 / 真题原卷模考 | TypeScript · 基于 MIT 原项目二创 |
 | [MergePilot](https://github.com/nghqqa/MergePilot) | 自托管多 Agent PR 审查工作台：GitHub 只读接入，合并由维护者决定 | Developer Beta |
 | [zpocket](https://github.com/nghqqa/zpocket) | ZCode 桌面端的安卓伴侣客户端：手机审批权限、接收产物文件 | Dart · Android 7+ · 基于 zcode-pocket 独立维护 |
 
