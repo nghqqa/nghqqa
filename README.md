@@ -33,6 +33,10 @@
 | [zpocket](https://github.com/nghqqa/zpocket) · [站点](https://zpocket.nghqqa.cn/) | ZCode 桌面端的安卓伴侣客户端：手机审批权限、接收产物文件 | Dart · Android 7+ · 基于 zcode-pocket 独立维护 |
 | [研稿 · Paper Studio](https://github.com/nghqqa/paper-studio) · [站点](https://paper.nghqqa.cn) | 自托管科研团队协同写作平台：原生 Word 与 LaTeX 同工作台 | TypeScript / Python · Apache-2.0 |
 
+## 开源协作
+
+- [SpeakType](https://github.com/wookat/speaktype) · [站点](https://speaktype.zalize.com) <img src="https://img.shields.io/github/stars/wookat/speaktype?style=flat-square&label=%E2%98%85&color=f0883e" alt="SpeakType stars" valign="middle">：本地优先 AI 语音输入法（离线识别 / 流式字幕 / 个人词典）— 核心贡献与发版维护（TypeScript · MIT）
+
 ## 小工具与在途
 
 - [ChangeCheck](https://github.com/nghqqa/changecheck)：改版验收官——同一测试集对比两版，用证据定位新增错误（MIT）
