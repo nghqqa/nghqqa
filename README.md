@@ -27,7 +27,7 @@
 
 | 项目 | 做了什么 | 技术与状态 |
 | --- | --- | --- |
-| [context-vault](https://github.com/nghqqa/context-vault) · [站点](https://nghqqa.github.io/context-vault/) | AI 编程会话的本地资产库：快照 / 诚实迁移 / Token 账本 / 跨会话记忆 | Python · MIT |
+| [context-vault](https://github.com/nghqqa/context-vault) · [站点](https://vault.nghqqa.cn/) | AI 编程会话的本地资产库：快照 / 诚实迁移 / Token 账本 / 跨会话记忆 | Python · MIT |
 | [题舟 tizhou](https://github.com/nghqqa/tizhou) · [站点](https://tizhou.nghqqa.cn/) <img src="https://img.shields.io/github/stars/nghqqa/tizhou?style=flat-square&label=%E2%98%85&color=f0883e" alt="tizhou stars" valign="middle"> | 本地优先考试学习工作台：扫描件 OCR / 题库直导 / 真题原卷模考 | TypeScript · 基于 MIT 原项目二创 |
 | [MergePilot](https://github.com/nghqqa/MergePilot) · [站点](https://mergepilot.nghqqa.cn/) | 自托管多 Agent PR 审查工作台：GitHub 只读接入，合并由维护者决定 | Developer Beta |
 | [zpocket](https://github.com/nghqqa/zpocket) · [站点](https://zpocket.nghqqa.cn/) | ZCode 桌面端的安卓伴侣客户端：手机审批权限、接收产物文件 | Dart · Android 7+ · 基于 zcode-pocket 独立维护 |
