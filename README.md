@@ -14,7 +14,7 @@
 
 | 项目 | 核心定位与亮点 | 链接 |
 | :--- | :--- | :--- |
-| **MergePilot** | 可审计多智能体 PR 审修工作台（GitHub 只读接入，人工确认合并）；**GOAI 开源新锐奖（2999 队前 0.5%）** | [Repo](https://github.com/nghqqa/MergePilot) \| [Live Site](https://mergepilot.nghqqa.cn/) |
+| **MergePilot** | 可审计多智能体 PR 审修工作台（受控远端写、高危人工审批、两阶段预览确认）；**GOAI 开源新锐奖（2999 队前 0.5%）** | [Repo](https://github.com/nghqqa/MergePilot) \| [Live Site](https://mergepilot.nghqqa.cn/) |
 | **Context Vault** | 本地优先跨 AI 编程工具上下文资产库与 6 工具 MCP 记忆服务，配套 162 题零泄漏基准 **CodingVault-Bench**（Python · MIT） | [Repo](https://github.com/nghqqa/context-vault) \| [Live Site](https://vault.nghqqa.cn) |
 | **Tizhou（砺知考公工作台）** | 本地优先桌面学习工作台，支持扫描件 OCR、题库直导与真题模考（TypeScript · MIT 二创维护版） | [Repo](https://github.com/nghqqa/tizhou) |
 
