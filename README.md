@@ -1,45 +1,27 @@
-[![nghqqa — profile](assets/terminal-hero.svg?v=6)](https://github.com/nghqqa?tab=repositories)
+# nghqqa · 逆光海
 
-<p align="center">
-  <a href="https://github.com/nghqqa"><img src="https://img.shields.io/badge/GitHub-nghqqa-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub — nghqqa"></a>
-  <a href="https://www.nghqqa.cn/"><img src="https://img.shields.io/badge/Blog-nghqqa.cn-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Blog — nghqqa.cn"></a>
-</p>
+**2027 届人工智能硕士 · AI Agent 工程与 NLP 研究者**
+
+- **Education:** M.S. in Artificial Intelligence @ Jiangxi Normal University (2024–2027)
+- **Focus:** `Few-shot NER` · `LLM & Multi-Agent Systems` · `Context Engineering`
+- **Stack:** `Python` · `TypeScript` · `React` · `Electron` · `FastAPI` · `MCP`
+
+[个人博客](https://www.nghqqa.cn/) · [MergePilot 官网](https://mergepilot.nghqqa.cn/) · [Context Vault 官网](https://vault.nghqqa.cn) · [ngh@jxnu.edu.cn](mailto:ngh@jxnu.edu.cn)
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <br>
-  <img src="https://img.shields.io/badge/Dart-13B9FD?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+## Featured Projects
 
-**nghqqa · 逆光海** — 本地优先学习工具 · 多 Agent 工程 · [博客 nghqqa.cn](https://www.nghqqa.cn/)
+| 项目 | 核心定位与亮点 | 链接 |
+| :--- | :--- | :--- |
+| **MergePilot** | 可审计多智能体 PR 审修工作台（GitHub 只读接入，人工确认合并）；**GOAI 开源新锐奖（2999 队前 0.5%）** | [Repo](https://github.com/nghqqa/MergePilot) \| [Live Site](https://mergepilot.nghqqa.cn/) |
+| **Context Vault** | 本地优先跨 AI 编程工具上下文资产库与 6 工具 MCP 记忆服务，配套 162 题零泄漏基准 **CodingVault-Bench**（Python · MIT） | [Repo](https://github.com/nghqqa/context-vault) \| [Live Site](https://vault.nghqqa.cn) |
+| **Tizhou（砺知考公工作台）** | 本地优先桌面学习工作台，支持扫描件 OCR、题库直导与真题模考（TypeScript · MIT 二创维护版） | [Repo](https://github.com/nghqqa/tizhou) |
 
-## 核心项目
+---
 
-| 项目 | 做了什么 | 技术与状态 |
-| --- | --- | --- |
-| [context-vault](https://github.com/nghqqa/context-vault) · [站点](https://vault.nghqqa.cn/) | AI 编程会话的本地资产库：快照 / 诚实迁移 / Token 账本 / 跨会话记忆 | Python · MIT |
-| [题舟 tizhou](https://github.com/nghqqa/tizhou) · [站点](https://tizhou.nghqqa.cn/) <img src="https://img.shields.io/github/stars/nghqqa/tizhou?style=flat-square&label=%E2%98%85&color=f0883e" alt="tizhou stars" valign="middle"> | 本地优先考试学习工作台：扫描件 OCR / 题库直导 / 真题原卷模考 | TypeScript · 基于 MIT 原项目二创 |
-| [MergePilot](https://github.com/nghqqa/MergePilot) · [站点](https://mergepilot.nghqqa.cn/) | 自托管多 Agent PR 审查工作台：GitHub 只读接入，合并由维护者决定 | Developer Beta |
-| [zpocket](https://github.com/nghqqa/zpocket) · [站点](https://zpocket.nghqqa.cn/) | ZCode 桌面端的安卓伴侣客户端：手机审批权限、接收产物文件 | Dart · Android 7+ · 基于 zcode-pocket 独立维护 |
-| [研稿 · Paper Studio](https://github.com/nghqqa/paper-studio) · [站点](https://paper.nghqqa.cn) | 自托管科研团队协同写作平台：原生 Word 与 LaTeX 同工作台 | TypeScript / Python · Apache-2.0 |
+## Selected Publications & IP
 
-## 开源协作
-
-- [SpeakType](https://github.com/wookat/speaktype) · [站点](https://speaktype.zalize.com) <img src="https://img.shields.io/github/stars/wookat/speaktype?style=flat-square&label=%E2%98%85&color=f0883e" alt="SpeakType stars" valign="middle">：本地优先 AI 语音输入法（离线识别 / 流式字幕 / 个人词典）— 核心贡献与发版维护（TypeScript · MIT）
-
-## 小工具与在途
-
-- [ChangeCheck](https://github.com/nghqqa/changecheck)：改版验收官——同一测试集对比两版，用证据定位新增错误（MIT）
-- [life-circle-15min](https://github.com/nghqqa/life-circle-15min)：15 分钟生活圈智能体检与补点选址（百度地图开放能力）
-
-更多见[仓库列表](https://github.com/nghqqa?tab=repositories)。
+1. **CCF T2 一作论文** — 《模式识别与人工智能》（2026）
+2. **CCF T1 录用论文** — 《中文信息学报》（第二作者）
+3. **CCL 2026 / Data Intelligence 英文论文**（第三作者）& **授权国家发明专利**（`ZL 2026 1 0015080.0`）
